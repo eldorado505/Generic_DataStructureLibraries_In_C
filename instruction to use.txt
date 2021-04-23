@@ -1,0 +1,9 @@
+                                       
+## How to use Library Funtions.
+
+1. stay in the folder, where you have written your c code.
+2. use below command to complie your c code.
+      (gcc FILENAME.c -o FILENAME.exe -I path_to_include_folder -L path_to_lib_folder -lmy) 
+3. execute FILENAME.exe to run code.
+
+(for more detail, you can go with our documentation)
